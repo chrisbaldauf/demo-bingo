@@ -7,4 +7,4 @@ A bingo card for technical demos
 |Network glitch   |   |   |Adjust screen resolution   |   |
 |   |   |Free Space   |   |Speaker / Audio trouble   |
 |   |Drink from empty water bottle   |Multiple recursive SSH/RDP sessions   |   |   |
-|   |Fat finger password   |   |   |   |
+|   |Fat finger password   |   |   |Print password / sensitive data   |
